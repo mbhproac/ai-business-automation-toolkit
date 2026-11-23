@@ -1,0 +1,1 @@
+{"id":"lead_intake","description":"Record a received sales lead","enabled":true,"actions":[{"type":"record","name":"acknowledge","message":"Lead received for ${company} from ${contact}"}]}

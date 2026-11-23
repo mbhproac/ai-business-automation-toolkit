@@ -1,0 +1,1 @@
+{"id":"ai_lead_summary","description":"Optional AI summary of lead details","enabled":false,"actions":[{"type":"ai_summarize","name":"summarize","prompt":"Summarize this business lead without assuming unstated facts: ${company}; interest: ${interest}"}]}
